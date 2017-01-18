@@ -23,7 +23,7 @@ div {
   padding-right: 10px;
   background-color: grey;
   position: relative;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 p {
@@ -32,11 +32,11 @@ p {
 }
 
 p.top {
-  border: 1px solid black;
+  border: 2px solid black;
   font-size: 1.25em;
   position: absolute;
-  right: 0px;
-  margin-top: 0px;
+  right: -2px;
+  margin-top: -2px;
   padding: 10px;
 }
 
