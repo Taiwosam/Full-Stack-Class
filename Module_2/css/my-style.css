@@ -4,7 +4,7 @@
 
 h1  {
   text-align: center;
-  font-size: 28px;
+  font-size: 1.75em;
   margin-bottom: 40px;
   font-family: Rockwell;
 }
@@ -33,7 +33,7 @@ p {
 
 p.top {
   border: 1px solid black;
-  font-size: 20px;
+  font-size: 1.25em;
   position: absolute;
   right: 0px;
   margin-top: 0px;
